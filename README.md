@@ -2,7 +2,6 @@
 
 - 🔭 I'm Full stack developer.
 - 🥱 2010, mainly using TS/JS for full stack development, while cloud services and operations have some development experience.
-- 😍 我是穷轨子, UID: 109524921, 求加我好友 😭.
 - 😎 [弱智开发者 の VSCode 配置](https://github.com/GongCx-Github/vscode-settings)
 - 📫 How to reach me:
 
